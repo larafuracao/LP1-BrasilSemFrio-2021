@@ -1,0 +1,2 @@
+Cadastro Doador: Usuário, na tela inicial, clica no botão "Cadastro Doador", é movida para uma nova tela onde faz o cadastro no sistema preenchendo os seguintes campos Nome,CPF ou CNPJ, Endereço,E-mail e login de acesso, após os dados serem validados 
+uma tela para adicionar os itens para doação. O usuário agora está habilitado para receber notificações de possíveis receptores via email e sistema, para então realizar a doação
