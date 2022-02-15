@@ -15,7 +15,8 @@
 | **US009** | Como um usuário, eu gostaria de me cadastrar com facilidade. |
 | **US010** | Como um doador, eu gostaria de cadastrar roupas no meu perfil de doador e colocar fotos. |
 | **US011** | Como um usuário, eu gostaria de encontrar doadores mais próximos com facilidade          |
-
+| **US012** | Como um doador auxiliar, eu gostaria de encontrar doadores para deixar as roupas         |
+| **US013** | Como um doador, eu gostaria de acompanhar as minhas doações que aconteceram              |
 
 ## Testes de Aceitação
 
@@ -24,6 +25,8 @@
 | TA001  | US009        | **Dado** que sou um usuário típico. **Quando** eu clicar em "Cadastrar usuário" **Então** o sistema deve exibir a tela de cadastramento de usuários. |
 | TA002  | US004        | **Dado** que sou um usuário típico. **Quando** eu clicar em "Cadastrar doador" **Então** o sistema deve exibir a tela de cadastramento de doadores |
 | TA003  | US004        | **Dado** que sou um usuário típico. **Quando** eu clicar no botão "Achar um doador". **Então** o sistema deve exibir a tela com uma lista de todos os doares em ordem do mais perto para o mais longe |
+| ...    | ...          | ...                                                          |
+| TA004  | US008        | **Dado** que sou um usuário doador típico. **Quando** eu clicar no botão "Doar". **Então** o sistema deve exibir a tela com uma lista das minhas roupas disponíveis para doação |
 | ...    | ...          | ...                                                          |
 
 ## Mockups
