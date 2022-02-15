@@ -27,6 +27,7 @@
 | Criação do diagrama de classes                               | `@daniocr`                         |
 | Criação do diagrama de sequência                             | `@daniocr`                         |
 | Criação do MER                                               | `@larafuracao`                     |
+| Implementação de HUs                                         | `@larafuracao`                     |
 
 -------------------------------------------------------------------------------------------------------
 ### O que foi feito até a iteração #2
@@ -44,4 +45,5 @@
 | Criação do diagrama de classes                               | `@daniocr`                         |
 | Criação do diagrama de sequência                             | `@daniocr`                         |
 | Criação do MER                                               | `@larafuracao`                     |
+| Implementação de HUs                                         | `@larafuracao`                     |
 
