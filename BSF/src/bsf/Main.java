@@ -56,7 +56,7 @@ public class Main extends JFrame {
 		contentPane.add(lblNewLabel_1);
 		
 		JButton btnNewButton = new JButton("Entrar");
-		btnNewButton.setBounds(106, 227, 89, 23);
+		btnNewButton.setBounds(163, 202, 89, 23);
 		contentPane.add(btnNewButton);
 		
 		JCheckBox chckbxNewCheckBox = new JCheckBox("Lembrar de mim");
@@ -76,12 +76,20 @@ public class Main extends JFrame {
 		lblNewLabel_2.setBounds(163, 24, 105, 40);
 		contentPane.add(lblNewLabel_2);
 		
-		JButton btnNewButton_1 = new JButton("Cadastrar");
+		JButton btnNewButton_1 = new JButton("Receptor");
 		btnNewButton_1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 			}
 		});
-		btnNewButton_1.setBounds(205, 227, 89, 23);
+		btnNewButton_1.setBounds(96, 227, 89, 23);
 		contentPane.add(btnNewButton_1);
+		
+		JButton btnNewButton_1_1 = new JButton("Doador");
+		btnNewButton_1_1.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		btnNewButton_1_1.setBounds(197, 227, 89, 23);
+		contentPane.add(btnNewButton_1_1);
 	}
 }
